@@ -1,0 +1,80 @@
+[
+  {
+    "name": "cityam",
+    "baseUrl": "https://www.cityam.com",
+    "relativeUrl": "/london-must-become-a-world-leader-on-climate-change-action",
+    "active": true
+  },
+  {
+    "name": "thetimes",
+    "baseUrl": "https://www.thetimes.co.uk",
+    "relativeUrl": "/environment/climate-change",
+    "active": true
+  },
+  {
+    "name": "theguardian",
+    "baseUrl": "https://www.theguardian.com",
+    "relativeUrl": "/environment/climate-crisis",
+    "active": true
+  },
+  {
+    "name": "telegraph",
+    "baseUrl": "https://www.telegraph.co.uk",
+    "relativeUrl": "/climate-change",
+    "active": true
+  },
+  {
+    "name": "nytimes",
+    "baseUrl": "https://www.nytimes.com",
+    "relativeUrl": "/international/section/climate",
+    "active": true
+  },
+  {
+    "name": "latimes",
+    "baseUrl": "https://www.latimes.com",
+    "relativeUrl": "/environment",
+    "active": true
+  },
+  {
+    "name": "smh",
+    "baseUrl": "https://www.smh.com.au",
+    "relativeUrl": "/environment/climate-change",
+    "active": true
+  },
+  {
+    "name": "un",
+    "baseUrl": "https://www.un.org",
+    "relativeUrl": "/climatechange",
+    "active": false
+  },
+  {
+    "name": "bbc",
+    "baseUrl": "https://www.bbc.co.uk",
+    "relativeUrl": "/news/science_and_environment",
+    "active": true
+  },
+  {
+    "name": "standard",
+    "baseUrl": "https://www.standard.co.uk",
+    "relativeUrl": "/topic/climate-change",
+    "active": true
+  },
+  {
+    "name": "thesun",
+    "baseUrl": "https://www.thesun.co.uk",
+    "relativeUrl": "/topic/climate-change-environment",
+    "active": true
+  },
+  {
+    "name": "dailymail",
+    "baseUrl": "https://www.dailymail.co.uk",
+    "relativeUrl": "/news/climate_change_global_warming/index.html",
+    "active": true
+  },
+  {
+    "name": "nypost",
+    "baseUrl": "https://nypost.com",
+    "relativeUrl": "/tag/climate-change",
+    "active": true
+  }
+]
